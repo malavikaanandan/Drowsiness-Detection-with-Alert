@@ -1,0 +1,14 @@
+# dlib pre-trained model (~100 MB) - download separately, see README
+shape_predictor_68_face_landmarks.dat
+*.dat.bz2
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
